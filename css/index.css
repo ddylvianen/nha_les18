@@ -152,4 +152,6 @@ footer > div > p{
         width: 10%;
         text-align: center;
     }
+
+    .nav > div > h1{ font-size: 40px;}
 }
